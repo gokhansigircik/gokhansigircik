@@ -1,10 +1,10 @@
-## Hey, Gokhan here! (https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Gokhan here!] (https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-gokhansigircik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokhan-sigircik)](https://www.linkedin.com/in/gokhan-sigircik) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsigircik@gmail.com)](mailto:gsigircik@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)
+[![Linkedin Badge](https://img.shields.io/badge/-gokhansigircik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokhan-sigircik)](https://www.linkedin.com/in/gokhan-sigircik) [![Gmail Badge](https://img.shields.io/badge/-gsigircik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsigircik@gmail.com)](mailto:gsigircik@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p> -->
 
   - :octocat: [My Resume](https://drive.google.com/file/d/14GQsOQwjAI5msIQYZQkb6D0UD04hNxIN/view?usp=sharing)
