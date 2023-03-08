@@ -4,7 +4,7 @@
 
 <!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-gokhansigircik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokhan-sigircik)](https://www.linkedin.com/in/gokhan-sigircik) [![Gmail Badge](https://img.shields.io/badge/-gsigircik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsigircik@gmail.com)](mailto:gsigircik@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)
+[![Linkedin Badge](https://img.shields.io/badge/-gokhansigircik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokhan-sigircik)](https://www.linkedin.com/in/gokhan-sigircik) [![Gmail Badge](https://img.shields.io/badge/-gsigircik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsigircik@gmail.com)](mailto:gsigircik@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-My%20Youtube%20Channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p> -->
 
   - :octocat: [My Resume](https://drive.google.com/file/d/14GQsOQwjAI5msIQYZQkb6D0UD04hNxIN/view?usp=sharing)
@@ -16,7 +16,7 @@
 * Machine Learning
 * Data Science
 
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact"> -->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> 
