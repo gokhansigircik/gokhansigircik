@@ -52,8 +52,7 @@
  ```
  
 ## Current Works
- * Started learning MERN Stack !!
- * I'm currently working on 🔭 Portfolio **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working on my coding skills 🌱 in **Competitive Programming**.
  * Getting Started with NodeJS and the MERN Stack!! 
 
 ![Gokhan's github stats](https://github-readme-stats.vercel.app/api?username=gokhansigircik&show_icons=true&hide=[%22issues%22])
