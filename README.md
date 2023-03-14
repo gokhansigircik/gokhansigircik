@@ -12,7 +12,6 @@
 
 ## :computer: Technologies I Love
 * Frontend and Backend Web Development
-* Machine Learning
 * Data Science
 
 ## Programming Languages
@@ -52,9 +51,8 @@
  ```
  
 ## Current Works
- * I just graduated from Coding Dojo with a Certificate of Achievement for completing three full stacks in Javascript, Python and Java!
- * I'm currently working my way through LettCode and HackerRank, refining my algorithm skills.
- * My current project are my personal Portfolio and a Summer Camp web based app and is built with a React frontend with a Spring Boot backend.
+ * I'm currently working on my coding skills 🌱 in **Competitive Programming**.
+ * Getting Started with NodeJS and the MERN Stack!! 
 
 ![Gokhan's github stats](https://github-readme-stats.vercel.app/api?username=gokhansigircik&show_icons=true&hide=[%22issues%22])
  
