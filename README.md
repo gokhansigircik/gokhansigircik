@@ -39,7 +39,7 @@
 	
 	def Ambitions():
 		
-		Own a wineyard in Portugal()
+		Own a vineyard in Portugal()
 		Have a coffee plantation in Colombia()
 		Own Hostels around the world()
 		LearnFrench()
