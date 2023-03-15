@@ -38,13 +38,13 @@
 	
 	def Ambitions():
 		
-		Own a vineyard in Portugal()
-		Have a coffee plantation in Colombia()
-		Own Hostels around the world()
+		OwnVineyardInPortugal()
+		HaveCoffeePlantationInColombia()
+		OwnHostelsAroundTheWorld()
 		LearnFrench()
-		Improve my Portugese()
-		Travel to 197 countries()
-		Want to have 4th Passport()
+		ImproveMyPortugese()
+		TravelTo197Countries()
+		WantToHave4thPassport()
 		
 		
 	
