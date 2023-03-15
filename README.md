@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-gokhansigircik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokhan-sigircik)](https://www.linkedin.com/in/gokhan-sigircik) [![Gmail Badge](https://img.shields.io/badge/-gsigircik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsigircik@gmail.com)](mailto:gsigircik@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-My%20Youtube%20Channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p> -->
 
-  - :octocat: [My Resume](https://drive.google.com/drive/u/0/my-drive)
+  - :octocat: [My Resume](https://drive.google.com/file/d/10LiImcn8H_84udMHZJcoNKs6_vIGJ7S0/view?usp=sharing)
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
