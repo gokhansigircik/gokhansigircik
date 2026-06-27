@@ -1,6 +1,6 @@
 <h1>Gokhan Sigircik</h1>
 
-<p><strong>Full Stack Software Developer building practical web applications with clear frontend flows, reliable backend services, and useful data workflows.</strong></p>
+<p><strong>Full Stack Software Developer shipping complete web products with sharp interfaces, reliable APIs, structured data, and ownership from day one.</strong></p>
 
 <p>
   <a href="https://www.linkedin.com/in/gokhan-sigircik/"><img src="https://img.shields.io/badge/LinkedIn-gokhan--sigircik-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -24,11 +24,3 @@ I use GitHub to show how I think through software: readable code, useful interfa
 - Building stronger full stack examples around real workflows instead of toy demos.
 - Improving frontend craft, backend reliability, database design, testing, and API quality.
 - Publishing code that makes a hiring manager understand the work quickly from the README, project structure, and commit history.
-
-## Best way to evaluate this profile
-
-Start with the pinned repositories below. Each one is being refined to show a specific part of the stack: frontend implementation, backend design, data modeling, user flows, API usage, and product thinking.
-
-## Role fit
-
-Software engineering, full stack development, frontend engineering, and product focused development roles where the work needs practical execution, clear communication, and ownership.
