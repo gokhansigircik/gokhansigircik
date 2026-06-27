@@ -1,33 +1,29 @@
-# GitHub Career Execution Roadmap
+# GitHub strategy roadmap
 
-## Positioning
+This profile should not read like a school archive. It should read like a candidate who can own business software: understand the workflow, design the data, build the interface, connect the backend, test the product, and explain the result clearly.
 
-Gokhan's profile should read as a focused full stack developer profile, not a bootcamp archive. The through line is hospitality to software: customer experience, operations, scheduling, service quality, forms, dashboards, and business workflows.
+## Public surface
 
-## Public repo strategy
+Keep the public surface tight. Ten repos stay public for now, with six pinned as the primary hiring surface.
 
-Keep a tight public surface. The curated set is ten public repositories including the profile repo.
+| Priority | Repository | Job hunting role |
+| --- | --- | --- |
+| 1 | C.A.M.P.S | Main full stack proof: React, Spring Boot, MySQL, registration, operations, scheduling, records, and payment flow. |
+| 2 | cash_flow_properties | Business analysis proof: property investment logic, Flask, MySQL, forms, dashboard, financial workflow. |
+| 3 | Recipes | Backend fundamentals proof: auth, sessions, CRUD, validation, templates, database backed records. |
+| 4 | travel_advisor | API frontend proof: maps, location search, place cards, external data, consumer UX. |
+| 5 | 3d_portfolio | Modern frontend proof: Vite, Three.js, motion, project presentation, recruiter friendly design. |
+| 6 | one-portfolio | Main career site: LinkedIn story, selected work, contact path, resume handoff. |
 
-| Repository | Role in the profile |
-| --- | --- |
-| gokhansigircik | Profile README and career positioning. |
-| one-portfolio | Main public portfolio and contact surface. |
-| C.A.M.P.S | Largest full stack product case study. |
-| cash_flow_properties | Business workflow and Flask dashboard case study. |
-| Recipes | Full stack Flask CRUD and auth case study. |
-| ready-login-page | Authentication fundamentals and session flow. |
-| non-profit | Frontend landing page and nonprofit storytelling. |
-| travel_advisor | API connected map and place discovery interface. |
-| 3d_portfolio | Modern frontend motion and 3D presentation. |
-| luke-api | React Router and API exploration case study. |
+## Next execution pass
 
-Everything else should be private. Nothing needs to be deleted.
+1. Add real screenshots or short demo GIFs to the six pinned repos.
+2. Add database schema files and seed data for the Flask and Spring Boot projects.
+3. Add small test suites where they show real confidence without turning the repos into test theater.
+4. Deploy C.A.M.P.S, Cash Flow Properties, Recipes, Travel Advisor, and both portfolio sites.
+5. Add one case study page per pinned project inside the React portfolio.
+6. Use LinkedIn posts to walk through one project at a time: problem, build, result, what improved.
 
-## Next build targets
+## Positioning rule
 
-1. Add screenshots to every curated README.
-2. Deploy the strongest frontend repos and link the live URLs.
-3. Add seed data and schema notes for Flask and Spring projects.
-4. Add lightweight tests where they are easiest to maintain.
-5. Turn the portfolio site into case study pages for each selected repo.
-6. Publish one LinkedIn post per polished project.
+Use the same story everywhere: Gokhan builds business workflow software. The edge is not generic coding. The edge is full stack execution plus operations judgment from years of managing real service teams.
