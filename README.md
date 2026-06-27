@@ -1,59 +1,60 @@
-## Hey, [Gokhan here!](https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h1>Gokhan Sigircik</h1>
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<p><strong>Full stack developer in Washington, DC, building practical web products from a decade of hospitality operations experience.</strong></p>
 
-<!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> -->
+<p>
+  <a href="https://www.linkedin.com/in/gokhan-sigircik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gokhansigircik.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-gokhansigircik.netlify.app-111827?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:gokhansigircik@hotmail.com"><img src="https://img.shields.io/badge/Email-gokhansigircik%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-gokhansigircik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokhan-sigircik)](https://www.linkedin.com/in/gokhan-sigircik) [![Gmail Badge](https://img.shields.io/badge/-gsigircik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsigircik@gmail.com)](mailto:gsigircik@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-My%20Youtube%20Channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UC0gjQvO1xluRKmaKqisAhrA)
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p> -->
+I moved from hospitality into software because I like systems, service, and the pressure of solving real problems for real people. Ten years in restaurants and guest facing environments taught me how to communicate clearly, stay calm under load, spot friction in a workflow, and care about the small details that shape a customer experience.
 
-  - :octocat: [My Resume](https://drive.google.com/file/d/10LiImcn8H_84udMHZJcoNKs6_vIGJ7S0/view?usp=sharing)
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+Now I build web applications with React, JavaScript, Python, Flask, Java, Spring Boot, MySQL, and modern frontend tooling. My best work sits where software meets operations: scheduling, guest experience, property workflows, internal tools, dashboards, and public facing product pages.
 
-## :computer: Technologies I Love
-* Frontend and Backend Web Development
-* Data Science
+## Focus
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> 
-<!--  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  -->
- 
- ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Gokhan Sigircik'
-		current_work = 'Writing code'
-		hobbies = [
-				'Travel the world!',
-				'Make videos'
-				'Learn languages'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Istanbul_Turkey()
-	
-	def Ambitions():
-		
-		OwnVineyardInPortugal()
-		HaveCoffeePlantationInColombia()
-		OwnHostelsAroundTheWorld()
-		LearnFrench()
-		ImproveMyPortugese()
-		TravelTo197Countries()
-		WantToHave4thPassport()
-		
-		
-	
- ```
- 
-## Current Works
- * I'm currently working on my coding skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!! 
+<table>
+  <tr>
+    <td><strong>Customer focused frontend</strong></td>
+    <td>React interfaces, responsive layouts, clear information architecture, accessible interaction states, and product pages that explain value quickly.</td>
+  </tr>
+  <tr>
+    <td><strong>Full stack workflows</strong></td>
+    <td>Flask, Spring Boot, MySQL, authentication, CRUD flows, dashboards, forms, validation, and API connected screens.</td>
+  </tr>
+  <tr>
+    <td><strong>Hospitality operations mindset</strong></td>
+    <td>Software shaped by service, team coordination, guest experience, business process, scheduling, and operational clarity.</td>
+  </tr>
+</table>
 
-![Gokhan's github stats](https://github-readme-stats.vercel.app/api?username=gokhansigircik&show_icons=true&hide=[%22issues%22])
- 
- 
+## Selected work
+
+| Project | Why it matters | Stack |
+| --- | --- | --- |
+| [Portfolio](https://github.com/gokhansigircik/one-portfolio) | Public career site that tells the hospitality to engineering story and links the strongest work. | React, Tailwind, Netlify |
+| [C.A.M.P.S](https://github.com/gokhansigircik/C.A.M.P.S) | Full stack camp operations system with activity management, scheduling, registration, and payment flow thinking. | React, Spring Boot, MySQL |
+| [Cash Flow Properties](https://github.com/gokhansigircik/cash_flow_properties) | Property investment workflow for comparing cash flow, expenses, and portfolio decisions. | Python, Flask, MySQL |
+| [Recipe Manager](https://github.com/gokhansigircik/Recipes) | Authenticated CRUD app with recipe creation, editing, and dashboard screens. | Python, Flask, MySQL |
+| [Travel Advisor](https://github.com/gokhansigircik/travel_advisor) | Map based discovery app for places, restaurants, and trip planning workflows. | React, Material UI, Maps API |
+| [3D Portfolio](https://github.com/gokhansigircik/3d_portfolio) | Interactive frontend portfolio experiment with motion, 3D assets, and modern build tooling. | React, Vite, Three.js |
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+## Direction
+
+I am sharpening this GitHub around fewer, stronger projects: each repo explains the product idea, the stack, the user flow, the setup path, and the next improvements. The goal is simple. When a hiring manager opens the profile, they should see a developer who brings software skills, service discipline, and operational judgment.
